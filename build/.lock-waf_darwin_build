@@ -1,0 +1,8 @@
+argv = ['/usr/local/Cellar/pebble-sdk/3.0/Pebble/waf', 'configure', 'build']
+environ = {'XPC_SERVICE_NAME': '0', 'MONO_GAC_PREFIX': '/usr/local', 'SSH_AUTH_SOCK': '/private/tmp/com.apple.launchd.J1u9Oqdg9z/Listeners', 'SHELL': '/bin/bash', 'LOGNAME': 'dabockster', 'USER': 'dabockster', 'HOME': '/Users/dabockster', 'ITERM_PROFILE': 'Default', 'PATH': '/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/texbin:/usr/local/Cellar/pebble-sdk/3.0/arm-cs-tools/bin', 'DISPLAY': '/private/tmp/com.apple.launchd.cbBN1uglV5/org.macosforge.xquartz:0', 'TMPDIR': '/var/folders/dg/8rk8xmsx6sl43j0b625z6mz40000gn/T/', 'TERM_PROGRAM': 'iTerm.app', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/private/tmp/com.apple.launchd.4Unv3y3d3L/Render', 'SHLVL': '2', 'PWD': '/Users/dabockster/Git Repos/PebbleEscape', 'XPC_FLAGS': '0x0', '__CF_USER_TEXT_ENCODING': '0x1F5:0x0:0x0', 'ITERM_SESSION_ID': 'w0t0p0', '_': '/usr/local/Cellar/pebble-sdk/3.0/Pebble/waf', 'PYTHONPATH': '/usr/local/Cellar/pebble-sdk/3.0/libexec/lib/python2.7/site-packages:/usr/local/Cellar/pebble-sdk/3.0/lib/python2.7/site-packages'}
+files = ['/Users/dabockster/Git Repos/PebbleEscape/wscript']
+hash = 6453914499055458597
+options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/dabockster/Git Repos/PebbleEscape/build'
+run_dir = '/Users/dabockster/Git Repos/PebbleEscape'
+top_dir = '/Users/dabockster/Git Repos/PebbleEscape'

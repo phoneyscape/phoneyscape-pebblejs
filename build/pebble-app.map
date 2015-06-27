@@ -1,0 +1,1930 @@
+Archive member included because of file (symbol)
+
+/usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                              src/simply/simply_accel.c.28.o (accel_data_service_unsubscribe)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .init          0x0000000000000000        0x4 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .fini          0x0000000000000000        0x4 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .text          0x0000000000000000       0xc8 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .bss           0x0000000000000000       0x1c /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .init_array    0x0000000000000000        0x4 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .jcr           0x0000000000000000        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .text          0x0000000000000000        0x0 src/main.c.28.o
+ .bss           0x0000000000000000        0x0 src/main.c.28.o
+ .text          0x0000000000000000        0x0 src/simply/simply.c.28.o
+ .bss           0x0000000000000000        0x0 src/simply/simply.c.28.o
+ .text          0x0000000000000000        0x0 src/simply/simply_accel.c.28.o
+ .bss           0x0000000000000000        0x0 src/simply/simply_accel.c.28.o
+ .text          0x0000000000000000        0x0 src/simply/simply_menu.c.28.o
+ .bss           0x0000000000000000        0x0 src/simply/simply_menu.c.28.o
+ .text          0x0000000000000000        0x0 src/simply/simply_msg.c.28.o
+ .bss           0x0000000000000000        0x0 src/simply/simply_msg.c.28.o
+ .text          0x0000000000000000        0x0 src/simply/simply_res.c.28.o
+ .bss           0x0000000000000000        0x0 src/simply/simply_res.c.28.o
+ .text.id_filter
+                0x0000000000000000        0xa src/simply/simply_res.c.28.o
+ .text.simply_res_remove_image
+                0x0000000000000000       0x2a src/simply/simply_res.c.28.o
+ .text          0x0000000000000000        0x0 src/simply/simply_splash.c.28.o
+ .bss           0x0000000000000000        0x0 src/simply/simply_splash.c.28.o
+ .text          0x0000000000000000        0x0 src/simply/simply_stage.c.28.o
+ .bss           0x0000000000000000        0x0 src/simply/simply_stage.c.28.o
+ .text.id_filter
+                0x0000000000000000        0xa src/simply/simply_stage.c.28.o
+ .text.animation_filter
+                0x0000000000000000        0xa src/simply/simply_stage.c.28.o
+ .text.animation_element_filter
+                0x0000000000000000        0xa src/simply/simply_stage.c.28.o
+ .text          0x0000000000000000        0x0 src/simply/simply_ui.c.28.o
+ .bss           0x0000000000000000        0x0 src/simply/simply_ui.c.28.o
+ .text          0x0000000000000000        0x0 src/simply/simply_wakeup.c.28.o
+ .bss           0x0000000000000000        0x0 src/simply/simply_wakeup.c.28.o
+ .text          0x0000000000000000        0x0 src/simply/simply_window.c.28.o
+ .bss           0x0000000000000000        0x0 src/simply/simply_window.c.28.o
+ .text.simply_window_set_button
+                0x0000000000000000       0x24 src/simply/simply_window.c.28.o
+ .text          0x0000000000000000        0x0 src/simply/simply_window_stack.c.28.o
+ .bss           0x0000000000000000        0x0 src/simply/simply_window_stack.c.28.o
+ .text          0x0000000000000000        0x0 basalt/appinfo.auto.c.28.o
+ .bss           0x0000000000000000        0x0 basalt/appinfo.auto.c.28.o
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.accel_data_service_subscribe__deprecated
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.accel_service_set_samples_per_update
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.action_bar_layer_legacy2_add_to_window
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.action_bar_layer_legacy2_clear_icon
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.action_bar_layer_legacy2_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.action_bar_layer_legacy2_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.action_bar_layer_legacy2_get_layer
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.action_bar_layer_legacy2_remove_from_window
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.action_bar_layer_legacy2_set_background_color_2bit
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.action_bar_layer_legacy2_set_click_config_provider
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.action_bar_layer_legacy2_set_context
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.action_bar_layer_legacy2_set_icon
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_legacy2_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_legacy2_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_legacy2_get_context
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_legacy2_is_scheduled
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_legacy2_schedule
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_legacy2_set_curve
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_legacy2_set_delay
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_legacy2_set_duration
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_legacy2_set_handlers
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_legacy2_set_implementation
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_legacy2_unschedule
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_legacy2_unschedule_all
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_comm_get_sniff_interval
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_comm_set_sniff_interval
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_log  0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_sync_deinit
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_sync_get
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_sync_init
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_sync_set
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_timer_reschedule
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.atan2_lookup
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.atoi     0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.atol     0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.battery_state_service_peek
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.battery_state_service_subscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.battery_state_service_unsubscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.bitmap_layer_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.bitmap_layer_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.bitmap_layer_get_layer
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.bitmap_layer_set_alignment
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.bitmap_layer_set_background_color_2bit
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.bitmap_layer_set_bitmap
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.bitmap_layer_set_compositing_mode
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.bluetooth_connection_service_peek
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.bluetooth_connection_service_subscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.bluetooth_connection_service_unsubscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.click_number_of_clicks_counted
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.clock_copy_time_string
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.clock_is_24h_style
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.cos_lookup
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.data_logging_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.data_logging_finish
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.data_logging_log
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_calc_buffer_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_calc_buffer_size_from_tuplets
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_merge
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_read_begin_from_buffer
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_read_first
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_read_next
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_serialize_tuplets
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_serialize_tuplets_to_buffer__deprecated
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_serialize_tuplets_to_buffer_with_iter
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_write_begin
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_write_cstring
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_write_end
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_write_int
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_write_int16
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_write_int32
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_write_int8
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_write_tuplet
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_write_uint16
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_write_uint32
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_write_uint8
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_create_as_sub_bitmap
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_create_with_data
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gmtime   0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gpath_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gpath_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gpath_draw_filled_legacy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gpath_draw_outline
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gpath_move_to
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gpath_rotate_to
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gpoint_equal
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.graphics_context_set_fill_color_2bit
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.graphics_context_set_stroke_color_2bit
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.graphics_context_set_text_color_2bit
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.graphics_draw_line
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.graphics_draw_pixel
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.graphics_draw_rect
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.graphics_text_layout_get_max_used_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.grect_align
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.grect_center_point
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.grect_clip
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.grect_contains_point
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.grect_crop
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.grect_equal
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.grect_is_empty
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.grect_standardize
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gsize_equal
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.inverter_layer_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.inverter_layer_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.inverter_layer_get_layer
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.layer_get_clips
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.layer_get_hidden
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.layer_insert_above_sibling
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.layer_insert_below_sibling
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.layer_remove_child_layers
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.layer_set_hidden
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.localtime__deprecated
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.memmove  0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.menu_cell_title_draw
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.menu_index_compare
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.menu_layer_legacy2_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.menu_layer_get_scroll_layer
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.menu_layer_legacy2_set_callbacks__deprecated
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.menu_layer_set_selected_next
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.number_window_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.number_window_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.number_window_get_value
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.number_window_set_label
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.number_window_set_max
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.number_window_set_min
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.number_window_set_step_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.number_window_set_value
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_delete
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_exists
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_get_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_read_bool
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_read_data__deprecated
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_read_int
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_read_string__deprecated
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_write_bool
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_write_data__deprecated
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_write_int
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_write_string
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_legacy2_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_legacy2_create_layer_frame
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_legacy2_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_legacy2_update_gpoint
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_legacy2_update_grect
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_legacy2_update_int16
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.psleep   0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.rand     0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.resource_load
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.resource_load_byte_range
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.resource_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.rot_bitmap_layer_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.rot_bitmap_layer_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.rot_bitmap_layer_increment_angle
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.rot_bitmap_layer_set_angle
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.rot_bitmap_layer_set_corner_clip_color_2bit
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.rot_bitmap_set_compositing_mode
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.rot_bitmap_set_src_ic
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.scroll_layer_get_content_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.scroll_layer_get_shadow_hidden
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.scroll_layer_scroll_down_click_handler
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.scroll_layer_scroll_up_click_handler
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.scroll_layer_set_callbacks
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.simple_menu_layer_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.simple_menu_layer_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.simple_menu_layer_get_layer
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.simple_menu_layer_get_selected_index
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.simple_menu_layer_set_selected_index
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.sin_lookup
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.snprintf
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.srand    0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.strcat   0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.strcmp   0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.strcpy   0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.strncat  0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.strncmp  0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_legacy2_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_legacy2_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_legacy2_get_content_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_legacy2_get_layer
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_legacy2_get_text
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_legacy2_set_background_color_2bit
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_legacy2_set_font
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_legacy2_set_overflow_mode
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_legacy2_set_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_legacy2_set_text
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_legacy2_set_text_alignment
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_legacy2_set_text_color_2bit
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.time__deprecated
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.time_ms_deprecated
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.vibes_cancel
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.vibes_enqueue_custom_pattern
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.window_get_fullscreen
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.window_is_loaded
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.window_set_background_color_2bit
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.window_set_click_config_provider
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.window_set_fullscreen
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.window_set_status_bar_icon
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.window_stack_contains_window
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_focus_service_subscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_focus_service_unsubscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_message_get_context
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_message_inbox_size_maximum
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_message_outbox_size_maximum
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.window_multi_click_subscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.window_raw_click_subscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.window_single_repeating_click_subscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_serialize_tuplets_to_buffer
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_read_data
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_read_string
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.persist_write_data
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.dict_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.simple_menu_layer_get_menu_layer
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.calloc   0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.bitmap_layer_get_bitmap
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.menu_layer_legacy2_set_callbacks
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.window_get_click_config_context
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.number_window_get_window
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.realloc  0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_create_blank_2bit
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.click_recognizer_is_repeating
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.accel_raw_data_service_subscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_worker_is_running
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_worker_kill
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_worker_launch
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_worker_message_subscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_worker_message_unsubscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.app_worker_send_message
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.worker_event_loop
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.worker_launch_app
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.heap_bytes_free
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.heap_bytes_used
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.compass_service_peek
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.compass_service_set_heading_filter
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.compass_service_subscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.compass_service_unsubscribe
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.uuid_equal
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.uuid_to_string
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gpath_draw_filled
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_legacy2_set_custom_curve
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.watch_info_get_color
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.watch_info_get_firmware_version
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.watch_info_get_model
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.graphics_capture_frame_buffer_2bit
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.graphics_frame_buffer_is_captured
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.clock_to_timestamp
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.wakeup_query
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.i18n_get_system_locale
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text._localeconv_r
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.setlocale
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.mktime   0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gcolor_equal
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.__profiler_init
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.__profiler_print_stats
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.__profiler_start
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.__profiler_stop
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.bitmap_layer_set_background_color
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.rot_bitmap_layer_set_corner_clip_color
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.clock_get_timezone
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_get_context
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_is_scheduled
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_set_custom_curve
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_set_delay
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_set_implementation
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_unschedule_all
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.graphics_capture_frame_buffer_format
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_create_layer_frame
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_get_animation
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_subject
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_update_gpoint
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_update_int16
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_create_blank_with_palette
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_set_bounds
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_sequence_create_with_resource
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_sequence_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_sequence_get_bitmap_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_sequence_get_current_frame_idx
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_sequence_get_total_num_frames
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_sequence_update_bitmap_next_frame
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_create_from_png_data
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_clone
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_get_delay
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_get_duration
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_get_play_count
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_get_elapsed
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_get_reverse
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_sequence_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_sequence_create_from_array
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_set_play_count
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_set_elapsed
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_set_reverse
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_spawn_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_spawn_create_from_array
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_get_curve
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_get_custom_curve
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.animation_get_implementation
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_sequence_get_play_count
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_sequence_restart
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_sequence_set_play_count
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.graphics_context_set_antialiased
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.graphics_context_set_stroke_width
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.action_bar_layer_get_layer
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.action_bar_layer_set_icon_animated
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_sequence_update_bitmap_by_elapsed
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gbitmap_create_palettized_from_1bit
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.menu_cell_layer_is_highlighted
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.graphics_draw_rotated_bitmap
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.action_bar_layer_set_icon_press_animation
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_create
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_get_content_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_get_layer
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_get_text
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_set_background_color
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_set_font
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_set_overflow_mode
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_set_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_set_text
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_set_text_alignment
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.text_layer_set_text_color
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_draw
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_frame_draw
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_frame_get_duration
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_frame_set_duration
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_get_fill_color
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_get_hidden
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_get_num_points
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_get_path_open
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_get_point
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_get_radius
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_get_stroke_color
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_get_stroke_width
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_get_type
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_image_clone
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_image_create_with_resource
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_image_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_image_draw
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_image_get_bounds_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_image_get_command_list
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_image_set_bounds_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_list_draw
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_list_get_command
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_list_get_num_commands
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_list_iterate
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_sequence_clone
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_sequence_create_with_resource
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_sequence_destroy
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_sequence_get_bounds_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_sequence_get_frame_by_elapsed
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_sequence_get_frame_by_index
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_sequence_get_num_frames
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_sequence_get_play_count
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_sequence_get_total_duration
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_sequence_set_bounds_size
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_sequence_set_play_count
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_set_fill_color
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_set_hidden
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_set_path_open
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_set_point
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_set_radius
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_set_stroke_color
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gdraw_command_set_stroke_width
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_create_bounds_origin
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.property_animation_update_uint32
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.gpath_draw_outline_open
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.menu_layer_pad_bottom_enable
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.status_bar_layer_get_background_color
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.status_bar_layer_get_foreground_color
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.status_bar_layer_set_colors
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.status_bar_layer_set_separator_mode
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.difftime
+                0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text.time_ms  0x0000000000000000        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .jcr           0x0000000000000000        0x4 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ .init          0x0000000000000000        0x8 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ .fini          0x0000000000000000        0x8 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+APP              0x0000000000000000 0x0000000000010000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+LOAD /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+LOAD src/main.c.28.o
+LOAD src/simply/simply.c.28.o
+LOAD src/simply/simply_accel.c.28.o
+LOAD src/simply/simply_menu.c.28.o
+LOAD src/simply/simply_msg.c.28.o
+LOAD src/simply/simply_res.c.28.o
+LOAD src/simply/simply_splash.c.28.o
+LOAD src/simply/simply_stage.c.28.o
+LOAD src/simply/simply_ui.c.28.o
+LOAD src/simply/simply_wakeup.c.28.o
+LOAD src/simply/simply_window.c.28.o
+LOAD src/simply/simply_window_stack.c.28.o
+LOAD basalt/appinfo.auto.c.28.o
+LOAD /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a
+START GROUP
+LOAD /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a
+LOAD /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/../../../../arm-none-eabi/lib/thumb2/libc.a
+END GROUP
+LOAD /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+LOAD /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+
+.header         0x0000000000000000       0x82
+ *(.pbl_header)
+ .pbl_header    0x0000000000000000       0x82 basalt/appinfo.auto.c.28.o
+                0x0000000000000000                __pbl_app_info
+
+.note.gnu.build-id
+                0x0000000000000082       0x26
+                0x0000000000000082                PROVIDE (BUILD_ID, .)
+ *(.note.gnu.build-id)
+ *fill*         0x0000000000000082        0x2 
+ .note.gnu.build-id
+                0x0000000000000084       0x24 linker stubs
+
+.text           0x00000000000000a8     0x33b5
+ *(.text)
+ .text          0x00000000000000a8       0x14 /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ *(.text.*)
+ .text.startup.main
+                0x00000000000000bc       0x16 src/main.c.28.o
+                0x00000000000000bc                main
+ .text.simply_init
+                0x00000000000000d2       0x5c src/simply/simply.c.28.o
+                0x00000000000000d2                simply_init
+ .text.simply_deinit
+                0x000000000000012e       0x38 src/simply/simply.c.28.o
+                0x000000000000012e                simply_deinit
+ .text.handle_accel_tap
+                0x0000000000000166       0x1e src/simply/simply_accel.c.28.o
+ .text.send_accel_data.isra.1
+                0x0000000000000184       0x4a src/simply/simply_accel.c.28.o
+ .text.handle_accel_data
+                0x00000000000001ce        0x6 src/simply/simply_accel.c.28.o
+ .text.accel_peek_timer_callback
+                0x00000000000001d4       0x40 src/simply/simply_accel.c.28.o
+ .text.simply_accel_handle_packet
+                0x0000000000000214       0x6c src/simply/simply_accel.c.28.o
+                0x0000000000000214                simply_accel_handle_packet
+ .text.simply_accel_create
+                0x0000000000000280       0x38 src/simply/simply_accel.c.28.o
+                0x0000000000000280                simply_accel_create
+ .text.simply_accel_destroy
+                0x00000000000002b8       0x20 src/simply/simply_accel.c.28.o
+                0x00000000000002b8                simply_accel_destroy
+ .text.list1_remove
+                0x00000000000002d8       0x32 src/simply/simply_menu.c.28.o
+ .text.section_filter
+                0x000000000000030a        0xc src/simply/simply_menu.c.28.o
+ .text.item_filter
+                0x0000000000000316       0x1a src/simply/simply_menu.c.28.o
+ .text.menu_get_num_sections_callback
+                0x0000000000000330        0x4 src/simply/simply_menu.c.28.o
+ .text.destroy_section
+                0x0000000000000334       0x30 src/simply/simply_menu.c.28.o
+ .text.destroy_item
+                0x0000000000000364       0x30 src/simply/simply_menu.c.28.o
+ .text.window_unload
+                0x0000000000000394       0x1c src/simply/simply_menu.c.28.o
+ .text.mark_dirty
+                0x00000000000003b0        0xa src/simply/simply_menu.c.28.o
+ .text.simply_menu_clear
+                0x00000000000003ba       0x28 src/simply/simply_menu.c.28.o
+ .text.window_disappear
+                0x00000000000003e2       0x22 src/simply/simply_menu.c.28.o
+ .text.window_appear
+                0x0000000000000404        0xe src/simply/simply_menu.c.28.o
+ .text.single_click_handler
+                0x0000000000000412       0x1a src/simply/simply_menu.c.28.o
+ .text.strdup2  0x000000000000042c       0x28 src/simply/simply_menu.c.28.o
+ .text.window_load
+                0x0000000000000454       0xf0 src/simply/simply_menu.c.28.o
+ .text.list1_find_prev.constprop.6
+                0x0000000000000544       0x1c src/simply/simply_menu.c.28.o
+ .text.click_config_provider
+                0x0000000000000560       0x24 src/simply/simply_menu.c.28.o
+ .text.add_item
+                0x0000000000000584       0x58 src/simply/simply_menu.c.28.o
+ .text.get_menu_section
+                0x00000000000005dc       0x10 src/simply/simply_menu.c.28.o
+ .text.menu_get_num_rows_callback
+                0x00000000000005ec       0x12 src/simply/simply_menu.c.28.o
+ *fill*         0x00000000000005fe        0x2 
+ .text.menu_get_header_height_callback
+                0x0000000000000600       0x24 src/simply/simply_menu.c.28.o
+ .text.menu_select_long_click_callback
+                0x0000000000000624       0x22 src/simply/simply_menu.c.28.o
+ .text.menu_select_click_callback
+                0x0000000000000646       0x22 src/simply/simply_menu.c.28.o
+ .text.add_section
+                0x0000000000000668       0x50 src/simply/simply_menu.c.28.o
+ .text.request_menu_section.part.2
+                0x00000000000006b8       0x3e src/simply/simply_menu.c.28.o
+ *fill*         0x00000000000006f6        0x2 
+ .text.menu_draw_row_callback
+                0x00000000000006f8      0x168 src/simply/simply_menu.c.28.o
+ .text.menu_draw_header_callback
+                0x0000000000000860       0x52 src/simply/simply_menu.c.28.o
+ *fill*         0x00000000000008b2        0x2 
+ .text.simply_menu_handle_packet
+                0x00000000000008b4      0x19c src/simply/simply_menu.c.28.o
+                0x00000000000008b4                simply_menu_handle_packet
+ .text.simply_menu_create
+                0x0000000000000a50       0x5c src/simply/simply_menu.c.28.o
+                0x0000000000000a50                simply_menu_create
+ .text.simply_menu_destroy
+                0x0000000000000aac       0x16 src/simply/simply_menu.c.28.o
+                0x0000000000000aac                simply_menu_destroy
+ .text.list1_remove
+                0x0000000000000ac2       0x32 src/simply/simply_msg.c.28.o
+ .text.dropped_callback
+                0x0000000000000af4        0x2 src/simply/simply_msg.c.28.o
+ .text.sent_callback
+                0x0000000000000af6        0x2 src/simply/simply_msg.c.28.o
+ .text.send_msg
+                0x0000000000000af8       0x30 src/simply/simply_msg.c.28.o
+ .text.handle_packet
+                0x0000000000000b28      0x188 src/simply/simply_msg.c.28.o
+ .text.received_callback
+                0x0000000000000cb0       0x38 src/simply/simply_msg.c.28.o
+ .text.send_msg_retry
+                0x0000000000000ce8       0xb4 src/simply/simply_msg.c.28.o
+ .text.simply_msg_has_communicated
+                0x0000000000000d9c        0xc src/simply/simply_msg.c.28.o
+                0x0000000000000d9c                simply_msg_has_communicated
+ .text.simply_msg_show_disconnected
+                0x0000000000000da8       0x58 src/simply/simply_msg.c.28.o
+                0x0000000000000da8                simply_msg_show_disconnected
+ .text.failed_callback
+                0x0000000000000e00       0x18 src/simply/simply_msg.c.28.o
+ .text.simply_msg_create
+                0x0000000000000e18       0x6c src/simply/simply_msg.c.28.o
+                0x0000000000000e18                simply_msg_create
+ .text.simply_msg_destroy
+                0x0000000000000e84       0x1c src/simply/simply_msg.c.28.o
+                0x0000000000000e84                simply_msg_destroy
+ .text.simply_msg_send
+                0x0000000000000ea0        0x4 src/simply/simply_msg.c.28.o
+                0x0000000000000ea0                simply_msg_send
+ .text.simply_msg_send_packet
+                0x0000000000000ea4       0x84 src/simply/simply_msg.c.28.o
+                0x0000000000000ea4                simply_msg_send_packet
+ .text.list1_remove
+                0x0000000000000f28       0x32 src/simply/simply_res.c.28.o
+ .text.window_stack_schedule_top_window_render
+                0x0000000000000f5a       0x12 src/simply/simply_res.c.28.o
+ .text.gbitmap_is_palette_black_and_white
+                0x0000000000000f6c       0x36 src/simply/simply_res.c.28.o
+ .text.setup_image.part.0
+                0x0000000000000fa2       0x2c src/simply/simply_res.c.28.o
+ .text.simply_res_add_bundled_image
+                0x0000000000000fce       0x54 src/simply/simply_res.c.28.o
+                0x0000000000000fce                simply_res_add_bundled_image
+ .text.simply_res_add_image
+                0x0000000000001022       0xb0 src/simply/simply_res.c.28.o
+                0x0000000000001022                simply_res_add_image
+ .text.simply_res_auto_image
+                0x00000000000010d2       0x40 src/simply/simply_res.c.28.o
+                0x00000000000010d2                simply_res_auto_image
+ .text.simply_res_add_custom_font
+                0x0000000000001112       0x3e src/simply/simply_res.c.28.o
+                0x0000000000001112                simply_res_add_custom_font
+ .text.simply_res_auto_font
+                0x0000000000001150       0x2a src/simply/simply_res.c.28.o
+                0x0000000000001150                simply_res_auto_font
+ .text.simply_res_clear
+                0x000000000000117a       0x42 src/simply/simply_res.c.28.o
+                0x000000000000117a                simply_res_clear
+ .text.simply_res_create
+                0x00000000000011bc       0x2a src/simply/simply_res.c.28.o
+                0x00000000000011bc                simply_res_create
+ .text.simply_res_destroy
+                0x00000000000011e6       0x12 src/simply/simply_res.c.28.o
+                0x00000000000011e6                simply_res_destroy
+ .text.window_load
+                0x00000000000011f8       0x12 src/simply/simply_splash.c.28.o
+ .text.layer_update_callback
+                0x000000000000120a       0x24 src/simply/simply_splash.c.28.o
+                0x000000000000120a                layer_update_callback
+ *fill*         0x000000000000122e        0x2 
+ .text.simply_splash_create
+                0x0000000000001230       0x78 src/simply/simply_splash.c.28.o
+                0x0000000000001230                simply_splash_create
+ .text.simply_splash_destroy
+                0x00000000000012a8       0x20 src/simply/simply_splash.c.28.o
+                0x00000000000012a8                simply_splash_destroy
+ .text.window_disappear
+                0x00000000000012c8       0x1a src/simply/simply_splash.c.28.o
+ .text.list1_remove
+                0x00000000000012e2       0x32 src/simply/simply_stage.c.28.o
+ .text.element_frame_getter
+                0x0000000000001314       0x10 src/simply/simply_stage.c.28.o
+ .text.window_unload
+                0x0000000000001324       0x1e src/simply/simply_stage.c.28.o
+ *fill*         0x0000000000001342        0x2 
+ .text.simply_stage_update_ticker
+                0x0000000000001344       0x2c src/simply/simply_stage.c.28.o
+ .text.handle_tick
+                0x0000000000001370       0x12 src/simply/simply_stage.c.28.o
+ .text.simply_stage_update
+                0x0000000000001382        0xa src/simply/simply_stage.c.28.o
+ .text.window_appear
+                0x000000000000138c       0x16 src/simply/simply_stage.c.28.o
+ *fill*         0x00000000000013a2        0x2 
+ .text.window_load
+                0x00000000000013a4       0x60 src/simply/simply_stage.c.28.o
+ .text.malloc0  0x0000000000001404       0x18 src/simply/simply_stage.c.28.o
+ .text.inverter_layer_update_proc
+                0x000000000000141c       0xf0 src/simply/simply_stage.c.28.o
+ .text.simply_stage_remove_element
+                0x000000000000150c       0x20 src/simply/simply_stage.c.28.o
+ .text.rect_element_draw_background.isra.1.part.2
+                0x000000000000152c       0x20 src/simply/simply_stage.c.28.o
+ .text.rect_element_draw_border.isra.5.part.6
+                0x000000000000154c       0x20 src/simply/simply_stage.c.28.o
+ .text.simply_stage_clear
+                0x000000000000156c       0x62 src/simply/simply_stage.c.28.o
+ .text.window_disappear
+                0x00000000000015ce       0x22 src/simply/simply_stage.c.28.o
+ .text.layer_update_callback
+                0x00000000000015f0      0x2c0 src/simply/simply_stage.c.28.o
+ .text.element_frame_setter
+                0x00000000000018b0       0x38 src/simply/simply_stage.c.28.o
+ .text.simply_stage_auto_element
+                0x00000000000018e8       0x90 src/simply/simply_stage.c.28.o
+ .text.animation_stopped
+                0x0000000000001978       0x3e src/simply/simply_stage.c.28.o
+ *fill*         0x00000000000019b6        0x2 
+ .text.simply_stage_handle_packet
+                0x00000000000019b8      0x28c src/simply/simply_stage.c.28.o
+                0x00000000000019b8                simply_stage_handle_packet
+ .text.simply_stage_create
+                0x0000000000001c44       0x58 src/simply/simply_stage.c.28.o
+                0x0000000000001c44                simply_stage_create
+ .text.simply_stage_destroy
+                0x0000000000001c9c       0x16 src/simply/simply_stage.c.28.o
+                0x0000000000001c9c                simply_stage_destroy
+ .text.window_unload
+                0x0000000000001cb2       0x1e src/simply/simply_ui.c.28.o
+ .text.window_disappear
+                0x0000000000001cd0       0x1c src/simply/simply_ui.c.28.o
+ .text.window_appear
+                0x0000000000001cec        0xe src/simply/simply_ui.c.28.o
+ .text.graphics_draw_bitmap_centered
+                0x0000000000001cfa       0x62 src/simply/simply_ui.c.28.o
+ .text.show_welcome_text
+                0x0000000000001d5c       0x18 src/simply/simply_ui.c.28.o
+ .text.layer_update_callback
+                0x0000000000001d74      0x494 src/simply/simply_ui.c.28.o
+ .text.simply_ui_set_style
+                0x0000000000002208       0x38 src/simply/simply_ui.c.28.o
+                0x0000000000002208                simply_ui_set_style
+ .text.window_load
+                0x0000000000002240       0x68 src/simply/simply_ui.c.28.o
+ .text.simply_ui_set_text
+                0x00000000000022a8       0x64 src/simply/simply_ui.c.28.o
+                0x00000000000022a8                simply_ui_set_text
+ .text.simply_ui_set_text_color
+                0x000000000000230c       0x12 src/simply/simply_ui.c.28.o
+                0x000000000000230c                simply_ui_set_text_color
+ .text.simply_ui_clear
+                0x000000000000231e       0x4a src/simply/simply_ui.c.28.o
+                0x000000000000231e                simply_ui_clear
+ .text.simply_ui_handle_packet
+                0x0000000000002368       0x6c src/simply/simply_ui.c.28.o
+                0x0000000000002368                simply_ui_handle_packet
+ .text.simply_ui_create
+                0x00000000000023d4       0x68 src/simply/simply_ui.c.28.o
+                0x00000000000023d4                simply_ui_create
+ .text.simply_ui_destroy
+                0x000000000000243c       0x2a src/simply/simply_ui.c.28.o
+                0x000000000000243c                simply_ui_destroy
+ .text.wakeup_handler
+                0x0000000000002466       0x1c src/simply/simply_wakeup.c.28.o
+ .text.wakeup_set_timer_callback
+                0x0000000000002482       0x20 src/simply/simply_wakeup.c.28.o
+ *fill*         0x00000000000024a2        0x2 
+ .text.simply_wakeup_handle_packet
+                0x00000000000024a4       0xac src/simply/simply_wakeup.c.28.o
+                0x00000000000024a4                simply_wakeup_handle_packet
+ .text.simply_wakeup_init
+                0x0000000000002550        0xc src/simply/simply_wakeup.c.28.o
+                0x0000000000002550                simply_wakeup_init
+ .text.status_bar_layer_remove_from_window
+                0x000000000000255c       0x6e src/simply/simply_window.c.28.o
+ .text.simply_window_single_click_handler
+                0x00000000000025ca       0x54 src/simply/simply_window.c.28.o
+                0x00000000000025ca                simply_window_single_click_handler
+ *fill*         0x000000000000261e        0x2 
+ .text.scroll_layer_set_click_config_provider_onto_window.constprop.5
+                0x0000000000002620       0x30 src/simply/simply_window.c.28.o
+ .text.click_config_provider
+                0x0000000000002650       0x78 src/simply/simply_window.c.28.o
+ .text.long_click_handler
+                0x00000000000026c8       0x30 src/simply/simply_window.c.28.o
+ .text.simply_window_set_scrollable
+                0x00000000000026f8       0x7c src/simply/simply_window.c.28.o
+                0x00000000000026f8                simply_window_set_scrollable
+ .text.simply_window_set_fullscreen
+                0x0000000000002774       0xf0 src/simply/simply_window.c.28.o
+                0x0000000000002774                simply_window_set_fullscreen
+ .text.simply_window_set_background_color
+                0x0000000000002864        0x4 src/simply/simply_window.c.28.o
+                0x0000000000002864                simply_window_set_background_color
+ .text.simply_window_set_action_bar
+                0x0000000000002868       0x48 src/simply/simply_window.c.28.o
+                0x0000000000002868                simply_window_set_action_bar
+ .text.simply_window_set_action_bar_icon
+                0x00000000000028b0       0x58 src/simply/simply_window.c.28.o
+                0x00000000000028b0                simply_window_set_action_bar_icon
+ .text.simply_window_set_action_bar_background_color
+                0x0000000000002908       0x38 src/simply/simply_window.c.28.o
+                0x0000000000002908                simply_window_set_action_bar_background_color
+ .text.simply_window_action_bar_clear
+                0x0000000000002940       0x26 src/simply/simply_window.c.28.o
+                0x0000000000002940                simply_window_action_bar_clear
+ .text.simply_window_load
+                0x0000000000002966       0x58 src/simply/simply_window.c.28.o
+                0x0000000000002966                simply_window_load
+ .text.simply_window_appear
+                0x00000000000029be       0x14 src/simply/simply_window.c.28.o
+                0x00000000000029be                simply_window_appear
+ .text.simply_window_disappear
+                0x00000000000029d2       0x1e src/simply/simply_window.c.28.o
+                0x00000000000029d2                simply_window_disappear
+ .text.simply_window_unload
+                0x00000000000029f0       0x10 src/simply/simply_window.c.28.o
+                0x00000000000029f0                simply_window_unload
+ .text.simply_window_handle_packet
+                0x0000000000002a00       0x86 src/simply/simply_window.c.28.o
+                0x0000000000002a00                simply_window_handle_packet
+ *fill*         0x0000000000002a86        0x2 
+ .text.simply_window_init
+                0x0000000000002a88       0x58 src/simply/simply_window.c.28.o
+                0x0000000000002a88                simply_window_init
+ .text.simply_window_deinit
+                0x0000000000002ae0       0x22 src/simply/simply_window.c.28.o
+                0x0000000000002ae0                simply_window_deinit
+ *fill*         0x0000000000002b02        0x2 
+ .text.simply_window_stack_set_broadcast
+                0x0000000000002b04       0x10 src/simply/simply_window_stack.c.28.o
+                0x0000000000002b04                simply_window_stack_set_broadcast
+ .text.simply_window_stack_get_top_window
+                0x0000000000002b14       0x20 src/simply/simply_window_stack.c.28.o
+                0x0000000000002b14                simply_window_stack_get_top_window
+ .text.simply_window_stack_show
+                0x0000000000002b34       0x4e src/simply/simply_window_stack.c.28.o
+                0x0000000000002b34                simply_window_stack_show
+ .text.simply_window_stack_pop
+                0x0000000000002b82       0x26 src/simply/simply_window_stack.c.28.o
+                0x0000000000002b82                simply_window_stack_pop
+ .text.simply_window_stack_send_show
+                0x0000000000002ba8       0x2c src/simply/simply_window_stack.c.28.o
+                0x0000000000002ba8                simply_window_stack_send_show
+ .text.simply_window_stack_send_hide
+                0x0000000000002bd4       0x40 src/simply/simply_window_stack.c.28.o
+                0x0000000000002bd4                simply_window_stack_send_hide
+ .text.simply_window_stack_back
+                0x0000000000002c14       0x1a src/simply/simply_window_stack.c.28.o
+                0x0000000000002c14                simply_window_stack_back
+ .text.simply_window_stack_handle_packet
+                0x0000000000002c2e       0x4a src/simply/simply_window_stack.c.28.o
+                0x0000000000002c2e                simply_window_stack_handle_packet
+ .text.simply_window_stack_create
+                0x0000000000002c78       0x20 src/simply/simply_window_stack.c.28.o
+                0x0000000000002c78                simply_window_stack_create
+ .text.simply_window_stack_destroy
+                0x0000000000002c98       0x1c src/simply/simply_window_stack.c.28.o
+                0x0000000000002c98                simply_window_stack_destroy
+ .text.accel_data_service_unsubscribe
+                0x0000000000002cb4        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002cb4                accel_data_service_unsubscribe
+ .text.accel_service_peek
+                0x0000000000002cc0        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002cc0                accel_service_peek
+ .text.accel_service_set_sampling_rate
+                0x0000000000002ccc        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002ccc                accel_service_set_sampling_rate
+ .text.accel_tap_service_subscribe
+                0x0000000000002cd8        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002cd8                accel_tap_service_subscribe
+ .text.accel_tap_service_unsubscribe
+                0x0000000000002ce4        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002ce4                accel_tap_service_unsubscribe
+ .text.app_event_loop
+                0x0000000000002cf0        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002cf0                app_event_loop
+ .text.app_message_deregister_callbacks
+                0x0000000000002cfc        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002cfc                app_message_deregister_callbacks
+ .text.app_message_open
+                0x0000000000002d08        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002d08                app_message_open
+ .text.app_timer_cancel
+                0x0000000000002d14        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002d14                app_timer_cancel
+ .text.app_timer_register
+                0x0000000000002d20        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002d20                app_timer_register
+ .text.click_recognizer_get_button_id
+                0x0000000000002d2c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002d2c                click_recognizer_get_button_id
+ .text.dict_find
+                0x0000000000002d38        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002d38                dict_find
+ .text.dict_write_data
+                0x0000000000002d44        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002d44                dict_write_data
+ .text.fonts_get_system_font
+                0x0000000000002d50        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002d50                fonts_get_system_font
+ .text.fonts_load_custom_font
+                0x0000000000002d5c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002d5c                fonts_load_custom_font
+ .text.fonts_unload_custom_font
+                0x0000000000002d68        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002d68                fonts_unload_custom_font
+ .text.free     0x0000000000002d74        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002d74                free
+ .text.gbitmap_create_with_resource
+                0x0000000000002d80        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002d80                gbitmap_create_with_resource
+ .text.gbitmap_destroy
+                0x0000000000002d8c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002d8c                gbitmap_destroy
+ .text.graphics_context_set_compositing_mode
+                0x0000000000002d98        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002d98                graphics_context_set_compositing_mode
+ .text.graphics_draw_bitmap_in_rect
+                0x0000000000002da4        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002da4                graphics_draw_bitmap_in_rect
+ .text.graphics_draw_circle
+                0x0000000000002db0        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002db0                graphics_draw_circle
+ .text.graphics_draw_round_rect
+                0x0000000000002dbc        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002dbc                graphics_draw_round_rect
+ .text.graphics_fill_circle
+                0x0000000000002dc8        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002dc8                graphics_fill_circle
+ .text.graphics_fill_rect
+                0x0000000000002dd4        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002dd4                graphics_fill_rect
+ .text.layer_add_child
+                0x0000000000002de0        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002de0                layer_add_child
+ .text.layer_create
+                0x0000000000002dec        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002dec                layer_create
+ .text.layer_create_with_data
+                0x0000000000002df8        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002df8                layer_create_with_data
+ .text.layer_destroy
+                0x0000000000002e04        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002e04                layer_destroy
+ .text.layer_get_bounds
+                0x0000000000002e10        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002e10                layer_get_bounds
+ .text.layer_get_data
+                0x0000000000002e1c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002e1c                layer_get_data
+ .text.layer_get_frame
+                0x0000000000002e28        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002e28                layer_get_frame
+ .text.layer_get_window
+                0x0000000000002e34        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002e34                layer_get_window
+ .text.layer_mark_dirty
+                0x0000000000002e40        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002e40                layer_mark_dirty
+ .text.layer_remove_from_parent
+                0x0000000000002e4c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002e4c                layer_remove_from_parent
+ .text.layer_set_bounds
+                0x0000000000002e58        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002e58                layer_set_bounds
+ .text.layer_set_clips
+                0x0000000000002e64        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002e64                layer_set_clips
+ .text.layer_set_frame
+                0x0000000000002e70        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002e70                layer_set_frame
+ .text.layer_set_update_proc
+                0x0000000000002e7c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002e7c                layer_set_update_proc
+ .text.light_enable
+                0x0000000000002e88        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002e88                light_enable
+ .text.light_enable_interaction
+                0x0000000000002e94        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002e94                light_enable_interaction
+ .text.malloc   0x0000000000002ea0        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002ea0                malloc
+ .text.memcpy   0x0000000000002eac        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002eac                memcpy
+ .text.memset   0x0000000000002eb8        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002eb8                memset
+ .text.menu_cell_basic_draw
+                0x0000000000002ec4        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002ec4                menu_cell_basic_draw
+ .text.menu_cell_basic_header_draw
+                0x0000000000002ed0        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002ed0                menu_cell_basic_header_draw
+ .text.menu_layer_destroy
+                0x0000000000002edc        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002edc                menu_layer_destroy
+ .text.menu_layer_get_layer
+                0x0000000000002ee8        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002ee8                menu_layer_get_layer
+ .text.menu_layer_get_selected_index
+                0x0000000000002ef4        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002ef4                menu_layer_get_selected_index
+ .text.menu_layer_reload_data
+                0x0000000000002f00        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f00                menu_layer_reload_data
+ .text.menu_layer_set_click_config_onto_window
+                0x0000000000002f0c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f0c                menu_layer_set_click_config_onto_window
+ .text.menu_layer_set_selected_index
+                0x0000000000002f18        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f18                menu_layer_set_selected_index
+ .text.resource_get_handle
+                0x0000000000002f24        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f24                resource_get_handle
+ .text.scroll_layer_add_child
+                0x0000000000002f30        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f30                scroll_layer_add_child
+ .text.scroll_layer_create
+                0x0000000000002f3c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f3c                scroll_layer_create
+ .text.scroll_layer_destroy
+                0x0000000000002f48        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f48                scroll_layer_destroy
+ .text.scroll_layer_get_content_offset
+                0x0000000000002f54        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f54                scroll_layer_get_content_offset
+ .text.scroll_layer_get_layer
+                0x0000000000002f60        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f60                scroll_layer_get_layer
+ .text.scroll_layer_set_click_config_onto_window
+                0x0000000000002f6c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f6c                scroll_layer_set_click_config_onto_window
+ .text.scroll_layer_set_content_offset
+                0x0000000000002f78        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f78                scroll_layer_set_content_offset
+ .text.scroll_layer_set_content_size
+                0x0000000000002f84        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f84                scroll_layer_set_content_size
+ .text.scroll_layer_set_context
+                0x0000000000002f90        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f90                scroll_layer_set_context
+ .text.scroll_layer_set_frame
+                0x0000000000002f9c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002f9c                scroll_layer_set_frame
+ .text.scroll_layer_set_shadow_hidden
+                0x0000000000002fa8        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002fa8                scroll_layer_set_shadow_hidden
+ .text.strftime
+                0x0000000000002fb4        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002fb4                strftime
+ .text.strlen   0x0000000000002fc0        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002fc0                strlen
+ .text.strncpy  0x0000000000002fcc        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002fcc                strncpy
+ .text.tick_timer_service_subscribe
+                0x0000000000002fd8        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002fd8                tick_timer_service_subscribe
+ .text.tick_timer_service_unsubscribe
+                0x0000000000002fe4        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002fe4                tick_timer_service_unsubscribe
+ .text.vibes_double_pulse
+                0x0000000000002ff0        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002ff0                vibes_double_pulse
+ .text.vibes_long_pulse
+                0x0000000000002ffc        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000002ffc                vibes_long_pulse
+ .text.vibes_short_pulse
+                0x0000000000003008        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003008                vibes_short_pulse
+ .text.window_create
+                0x0000000000003014        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003014                window_create
+ .text.window_destroy
+                0x0000000000003020        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003020                window_destroy
+ .text.window_get_click_config_provider
+                0x000000000000302c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x000000000000302c                window_get_click_config_provider
+ .text.window_get_root_layer
+                0x0000000000003038        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003038                window_get_root_layer
+ .text.window_set_click_config_provider_with_context
+                0x0000000000003044        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003044                window_set_click_config_provider_with_context
+ .text.window_set_window_handlers
+                0x0000000000003050        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003050                window_set_window_handlers
+ .text.window_stack_get_top_window
+                0x000000000000305c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x000000000000305c                window_stack_get_top_window
+ .text.window_stack_pop
+                0x0000000000003068        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003068                window_stack_pop
+ .text.window_stack_pop_all
+                0x0000000000003074        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003074                window_stack_pop_all
+ .text.window_stack_push
+                0x0000000000003080        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003080                window_stack_push
+ .text.window_stack_remove
+                0x000000000000308c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x000000000000308c                window_stack_remove
+ .text.window_get_user_data
+                0x0000000000003098        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003098                window_get_user_data
+ .text.window_set_user_data
+                0x0o
+ .debug_line    0x00000000000012a1      0x3d0 src/simply/simply_res.c.29.o
+ .debug_line    0x0000000000001671      0x25f src/simply/simply_splash.c.29.o
+ .debug_line    0x00000000000018d0      0x776 src/simply/simply_stage.c.29.o
+ .debug_line    0x0000000000002046      0x5f3 src/simply/simply_ui.c.29.o
+ .debug_line    0x0000000000002639      0x305 src/simply/simply_wakeup.c.29.o
+ .debug_line    0x000000000000293e      0x51e src/simply/simply_window.c.29.o
+ .debug_line    0x0000000000002e5c      0x366 src/simply/simply_window_stack.c.29.o
+ .debug_line    0x00000000000031c2      0x12d aplite/appinfo.auto.c.29.o
+
+.debug_str      0x0000000000000000     0x4152
+ .debug_str     0x0000000000000000      0x177 src/main.c.29.o
+                                        0x1b6 (size before relaxing)
+ .debug_str     0x0000000000000177      0x4b1 src/simply/simply.c.29.o
+                                        0x6e1 (size before relaxing)
+ .debug_str     0x0000000000000628      0x675 src/simply/simply_accel.c.29.o
+                                        0x987 (size before relaxing)
+ .debug_str     0x0000000000000c9d      0xcda src/simply/simply_menu.c.29.o
+                                       0x16d3 (size before relaxing)
+ .debug_str     0x0000000000001977      0x808 src/simply/simply_msg.c.29.o
+                                       0x131f (size before relaxing)
+ .debug_str     0x000000000000217f      0x204 src/simply/simply_res.c.29.o
+                                        0x5ce (size before relaxing)
+ .debug_str     0x0000000000002383      0x188 src/simply/simply_splash.c.29.o
+                                        0x54c (size before relaxing)
+ .debug_str     0x000000000000250b      0xe48 src/simply/simply_stage.c.29.o
+                                       0x1bdb (size before relaxing)
+ .debug_str     0x0000000000003353      0x305 src/simply/simply_ui.c.29.o
+                                       0x14c3 (size before relaxing)
+ .debug_str     0x0000000000003658      0x251 src/simply/simply_wakeup.c.29.o
+                                        0x8ec (size before relaxing)
+ .debug_str     0x00000000000038a9      0x5d4 src/simply/simply_window.c.29.o
+                                       0x1235 (size before relaxing)
+ .debug_str     0x0000000000003e7d      0x17e src/simply/simply_window_stack.c.29.o
+                                        0xa8e (size before relaxing)
+ .debug_str     0x0000000000003ffb      0x157 aplite/appinfo.auto.c.29.o
+                                        0x322 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0xf78
+ .debug_frame   0x0000000000000000       0x28 src/main.c.29.o
+ .debug_frame   0x0000000000000028       0x40 src/simply/simply.c.29.o
+ .debug_frame   0x0000000000000068       0xd0 src/simply/simply_accel.c.29.o
+ .debug_frame   0x0000000000000138      0x2fc src/simply/simply_menu.c.29.o
+ .debug_frame   0x0000000000000434      0x178 src/simply/simply_msg.c.29.o
+ .debug_frame   0x00000000000005ac      0x144 src/simply/simply_res.c.29.o
+ .debug_frame   0x00000000000006f0       0x9c src/simply/simply_splash.c.29.o
+ .debug_frame   0x000000000000078c      0x2a8 src/simply/simply_stage.c.29.o
+ .debug_frame   0x0000000000000a34      0x1a4 src/simply/simply_ui.c.29.o
+ .debug_frame   0x0000000000000bd8       0x7c src/simply/simply_wakeup.c.29.o
+ .debug_frame   0x0000000000000c54      0x210 src/simply/simply_window.c.29.o
+ .debug_frame   0x0000000000000e64      0x114 src/simply/simply_window_stack.c.29.o
+tmpZh9nU7pebble.o)
+                0x000000000000314c                graphics_release_frame_buffer
+ .text.launch_reason
+                0x0000000000003158        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003158                launch_reason
+ .text.wakeup_cancel
+                0x0000000000003164        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003164                wakeup_cancel
+ .text.wakeup_cancel_all
+                0x0000000000003170        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003170                wakeup_cancel_all
+ .text.wakeup_get_launch_event
+                0x000000000000317c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x000000000000317c                wakeup_get_launch_event
+ .text.wakeup_schedule
+                0x0000000000003188        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003188                wakeup_schedule
+ .text.wakeup_service_subscribe
+                0x0000000000003194        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003194                wakeup_service_subscribe
+ .text.clock_is_timezone_set
+                0x00000000000031a0        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000031a0                clock_is_timezone_set
+ .text.graphics_context_set_fill_color
+                0x00000000000031ac        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000031ac                graphics_context_set_fill_color
+ .text.graphics_context_set_stroke_color
+                0x00000000000031b8        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000031b8                graphics_context_set_stroke_color
+ .text.graphics_context_set_text_color
+                0x00000000000031c4        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000031c4                graphics_context_set_text_color
+ .text.window_set_background_color
+                0x00000000000031d0        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000031d0                window_set_background_color
+ .text.localtime
+                0x00000000000031dc        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000031dc                localtime
+ .text.animation_destroy
+                0x00000000000031e8        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000031e8                animation_destroy
+ .text.animation_schedule
+                0x00000000000031f4        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000031f4                animation_schedule
+ .text.animation_set_curve
+                0x0000000000003200        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003200                animation_set_curve
+ .text.animation_set_duration
+                0x000000000000320c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x000000000000320c                animation_set_duration
+ .text.animation_set_handlers
+                0x0000000000003218        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003218                animation_set_handlers
+ .text.animation_unschedule
+                0x0000000000003224        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003224                animation_unschedule
+ .text.gbitmap_create_blank
+                0x0000000000003230        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003230                gbitmap_create_blank
+ .text.graphics_capture_frame_buffer
+                0x000000000000323c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x000000000000323c                graphics_capture_frame_buffer
+ .text.property_animation_create
+                0x0000000000003248        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003248                property_animation_create
+ .text.property_animation_from
+                0x0000000000003254        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003254                property_animation_from
+ .text.property_animation_to
+                0x0000000000003260        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003260                property_animation_to
+ .text.property_animation_update_grect
+                0x000000000000326c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x000000000000326c                property_animation_update_grect
+ .text.gbitmap_get_bounds
+                0x0000000000003278        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003278                gbitmap_get_bounds
+ .text.gbitmap_get_bytes_per_row
+                0x0000000000003284        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003284                gbitmap_get_bytes_per_row
+ .text.gbitmap_get_data
+                0x0000000000003290        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003290                gbitmap_get_data
+ .text.gbitmap_get_format
+                0x000000000000329c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x000000000000329c                gbitmap_get_format
+ .text.gbitmap_get_palette
+                0x00000000000032a8        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000032a8                gbitmap_get_palette
+ .text.gbitmap_set_data
+                0x00000000000032b4        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000032b4                gbitmap_set_data
+ .text.gbitmap_set_palette
+                0x00000000000032c0        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000032c0                gbitmap_set_palette
+ .text.launch_get_args
+                0x00000000000032cc        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000032cc                launch_get_args
+ .text.menu_layer_create
+                0x00000000000032d8        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000032d8                menu_layer_create
+ .text.action_bar_layer_add_to_window
+                0x00000000000032e4        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000032e4                action_bar_layer_add_to_window
+ .text.action_bar_layer_clear_icon
+                0x00000000000032f0        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000032f0                action_bar_layer_clear_icon
+ .text.action_bar_layer_create
+                0x00000000000032fc        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x00000000000032fc                action_bar_layer_create
+ .text.action_bar_layer_destroy
+                0x0000000000003308        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003308                action_bar_layer_destroy
+ .text.action_bar_layer_remove_from_window
+                0x0000000000003314        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003314                action_bar_layer_remove_from_window
+ .text.action_bar_layer_set_background_color
+                0x0000000000003320        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003320                action_bar_layer_set_background_color
+ .text.action_bar_layer_set_click_config_provider
+                0x000000000000332c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x000000000000332c                action_bar_layer_set_click_config_provider
+ .text.action_bar_layer_set_context
+                0x0000000000003338        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003338                action_bar_layer_set_context
+ .text.action_bar_layer_set_icon
+                0x0000000000003344        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003344                action_bar_layer_set_icon
+ .text.time     0x0000000000003350        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003350                time
+ .text.menu_layer_set_highlight_colors
+                0x000000000000335c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x000000000000335c                menu_layer_set_highlight_colors
+ .text.menu_layer_set_normal_colors
+                0x0000000000003368        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003368                menu_layer_set_normal_colors
+ .text.menu_layer_set_callbacks
+                0x0000000000003374        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003374                menu_layer_set_callbacks
+ .text.status_bar_layer_create
+                0x0000000000003380        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003380                status_bar_layer_create
+ .text.status_bar_layer_destroy
+                0x000000000000338c        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x000000000000338c                status_bar_layer_destroy
+ .text.status_bar_layer_get_layer
+                0x0000000000003398        0xc /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+                0x0000000000003398                status_bar_layer_get_layer
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00000000000033a4       0x26 src/simply/simply_msg.c.28.o
+ .rodata.str1.1
+                0x00000000000033ca       0x16 src/simply/simply_stage.c.28.o
+ .rodata.str1.1
+                0x00000000000033e0       0x7d src/simply/simply_ui.c.28.o
+
+.glue_7         0x0000000000003460        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x0000000000003460        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000003460        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x0000000000003460        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x0000000000003460        0x0
+ .iplt          0x0000000000000000        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+
+.rel.dyn        0x0000000000003460        0x0
+ .rel.iplt      0x0000000000000000        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+
+.data           0x0000000000003460       0x8b
+ *(.data)
+ .data          0x0000000000003460        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .data          0x0000000000003460        0x4 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+                0x0000000000003460                __dso_handle
+ .data          0x0000000000003464        0x0 src/main.c.28.o
+ .data          0x0000000000003464        0x0 src/simply/simply.c.28.o
+ .data          0x0000000000003464        0x0 src/simply/simply_accel.c.28.o
+ .data          0x0000000000003464       0x10 src/simply/simply_menu.c.28.o
+ .data          0x0000000000003474        0x0 src/simply/simply_msg.c.28.o
+ .data          0x0000000000003474        0x0 src/simply/simply_res.c.28.o
+ .data          0x0000000000003474        0x0 src/simply/simply_splash.c.28.o
+ .data          0x0000000000003474       0x10 src/simply/simply_stage.c.28.o
+ .data          0x0000000000003484       0x10 src/simply/simply_ui.c.28.o
+ .data          0x0000000000003494        0x0 src/simply/simply_wakeup.c.28.o
+ .data          0x0000000000003494        0x0 src/simply/simply_window.c.28.o
+ .data          0x0000000000003494        0x0 src/simply/simply_window_stack.c.28.o
+ .data          0x0000000000003494        0x0 basalt/appinfo.auto.c.28.o
+ .data          0x0000000000003494        0x0 /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .data          0x0000000000003494        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .data          0x0000000000003494        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ *(.data.*)
+ .data.s_normal_palette
+                0x0000000000003494        0x2 src/simply/simply_menu.c.28.o
+ .data.s_inverted_palette
+                0x0000000000003496        0x2 src/simply/simply_menu.c.28.o
+ .data.LOADING_TEXT
+                0x0000000000003498        0xb src/simply/simply_menu.c.28.o
+ *fill*         0x00000000000034a3        0x1 
+ .data.rel.ro.implementation.7785
+                0x00000000000034a4       0x14 src/simply/simply_stage.c.28.o
+ .data.rel.local.STYLES
+                0x00000000000034b8       0x30 src/simply/simply_ui.c.28.o
+ .data.s_button_palette
+                0x00000000000034e8        0x2 src/simply/simply_window.c.28.o
+ .data.s_broadcast_window
+                0x00000000000034ea        0x1 src/simply/simply_window_stack.c.28.o
+
+.igot.plt       0x00000000000034ec        0x0
+ .igot.plt      0x0000000000000000        0x0 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+
+.bss            0x00000000000034ec      0x118
+ *(.bss)
+ *(.bss.*)
+ .bss.s_accel   0x00000000000034ec        0x4 src/simply/simply_accel.c.28.o
+ .bss.EMPTY_TITLE
+                0x00000000000034f0        0x1 src/simply/simply_menu.c.28.o
+ *fill*         0x00000000000034f1        0x3 
+ .bss.s_provider.7417
+                0x00000000000034f4        0x4 src/simply/simply_menu.c.28.o
+ .bss.s_has_communicated
+                0x00000000000034f8        0x1 src/simply/simply_msg.c.28.o
+ *fill*         0x00000000000034f9        0x3 
+ .bss.s_msg     0x00000000000034fc        0x4 src/simply/simply_msg.c.28.o
+ .bss.time_text.7686
+                0x0000000000003500      0x100 src/simply/simply_stage.c.28.o
+ .bss.s_provider.7417
+                0x0000000000003600        0x4 src/simply/simply_window.c.28.o
+
+DISCARD
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+ *(.eh_frame)
+OUTPUT(/Users/dabockster/Git Repos/PebbleEscape/build/basalt/pebble-app.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x27
+ .ARM.attributes
+                0x0000000000000000       0x19 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .ARM.attributes
+                0x0000000000000019       0x29 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .ARM.attributes
+                0x0000000000000042       0x33 src/main.c.28.o
+ .ARM.attributes
+                0x0000000000000075       0x33 src/simply/simply.c.28.o
+ .ARM.attributes
+                0x00000000000000a8       0x33 src/simply/simply_accel.c.28.o
+ .ARM.attributes
+                0x00000000000000db       0x33 src/simply/simply_menu.c.28.o
+ .ARM.attributes
+                0x000000000000010e       0x33 src/simply/simply_msg.c.28.o
+ .ARM.attributes
+                0x0000000000000141       0x33 src/simply/simply_res.c.28.o
+ .ARM.attributes
+                0x0000000000000174       0x33 src/simply/simply_splash.c.28.o
+ .ARM.attributes
+                0x00000000000001a7       0x33 src/simply/simply_stage.c.28.o
+ .ARM.attributes
+                0x00000000000001da       0x33 src/simply/simply_ui.c.28.o
+ .ARM.attributes
+                0x000000000000020d       0x33 src/simply/simply_wakeup.c.28.o
+ .ARM.attributes
+                0x0000000000000240       0x33 src/simply/simply_window.c.28.o
+ .ARM.attributes
+                0x0000000000000273       0x33 src/simply/simply_window_stack.c.28.o
+ .ARM.attributes
+                0x00000000000002a6       0x33 basalt/appinfo.auto.c.28.o
+ .ARM.attributes
+                0x00000000000002d9       0x21 /usr/local/Cellar/pebble-sdk/3.0/Pebble/basalt/lib/libpebble.a(tmpZh9nU7pebble.o)
+ .ARM.attributes
+                0x00000000000002fa       0x29 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .ARM.attributes
+                0x0000000000000323       0x19 /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+
+.comment        0x0000000000000000       0x4e
+ .comment       0x0000000000000000       0x4e /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+                                         0x4f (size before relaxing)
+ .comment       0x0000000000000000       0x4f src/main.c.28.o
+ .comment       0x0000000000000000       0x4f src/simply/simply.c.28.o
+ .comment       0x0000000000000000       0x4f src/simply/simply_accel.c.28.o
+ .comment       0x0000000000000000       0x4f src/simply/simply_menu.c.28.o
+ .comment       0x0000000000000000       0x4f src/simply/simply_msg.c.28.o
+ .comment       0x0000000000000000       0x4f src/simply/simply_res.c.28.o
+ .comment       0x0000000000000000       0x4f src/simply/simply_splash.c.28.o
+ .comment       0x0000000000000000       0x4f src/simply/simply_stage.c.28.o
+ .comment       0x0000000000000000       0x4f src/simply/simply_ui.c.28.o
+ .comment       0x0000000000000000       0x4f src/simply/simply_wakeup.c.28.o
+ .comment       0x0000000000000000       0x4f src/simply/simply_window.c.28.o
+ .comment       0x0000000000000000       0x4f src/simply/simply_window_stack.c.28.o
+ .comment       0x0000000000000000       0x4f basalt/appinfo.auto.c.28.o
+ .comment       0x0000000000000000       0x4f /usr/local/Cellar/pebble-toolchain/2.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+
+.debug_info     0x0000000000000000    0x1362f
+ .debug_info    0x0000000000000000      0x235 src/main.c.28.o
+ .debug_info    0x0000000000000235      0xb60 src/simply/simply.c.28.o
+ .debug_info    0x0000000000000d95      0xd31 src/simply/simply_accel.c.28.o
+ .debug_info    0x0000000000001ac6     0x3605 src/simply/simply_menu.c.28.o
+ .debug_info    0x00000000000050cb     0x22fb src/simply/simply_msg.c.28.o
+ .debug_info    0x00000000000073c6     0x12a3 src/simply/simply_res.c.28.o
+ .debug_info    0x0000000000008669      0x8cd src/simply/simply_splash.c.28.o
+ .debug_info    0x0000000000008f36     0x4344 src/simply/simply_stage.c.28.o
+ .debug_info    0x000000000000d27a     0x245b src/simply/simply_ui.c.28.o
+ .debug_info    0x000000000000f6d5      0xb5c src/simply/simply_wakeup.c.28.o
+ .debug_info    0x0000000000010231     0x21dd src/simply/simply_window.c.28.o
+ .debug_info    0x000000000001240e      0xefb src/simply/simply_window_stack.c.28.o
+ .debug_info    0x0000000000013309      0x326 basalt/appinfo.auto.c.28.o
+
+.debug_abbrev   0x0000000000000000     0x2fce
+ .debug_abbrev  0x0000000000000000      0x14d src/main.c.28.o
+ .debug_abbrev  0x000000000000014d      0x264 src/simply/simply.c.28.o
+ .debug_abbrev  0x00000000000003b1      0x354 src/simply/simply_accel.c.28.o
+ .debug_abbrev  0x0000000000000705      0x591 src/simply/simply_menu.c.28.o
+ .debug_abbrev  0x0000000000000c96      0x589 src/simply/simply_msg.c.28.o
+ .debug_abbrev  0x000000000000121f      0x436 src/simply/simply_res.c.28.o
+ .debug_abbrev  0x0000000000001655      0x2ca src/simply/simply_splash.c.28.o
+ .debug_abbrev  0x000000000000191f      0x5cf src/simply/simply_stage.c.28.o
+ .debug_abbrev  0x0000000000001eee      0x503 src/simply/simply_ui.c.28.o
+ .debug_abbrev  0x00000000000023f1      0x30b src/simply/simply_wakeup.c.28.o
+ .debug_abbrev  0x00000000000026fc      0x4df src/simply/simply_window.c.28.o
+ .debug_abbrev  0x0000000000002bdb      0x355 src/simply/simply_window_stack.c.28.o
+ .debug_abbrev  0x0000000000002f30       0x9e basalt/appinfo.auto.c.28.o
+
+.debug_loc      0x0000000000000000     0x77f1
+ .debug_loc     0x0000000000000000       0x3e src/main.c.28.o
+ .debug_loc     0x000000000000003e       0x7c src/simply/simply.c.28.o
+ .debug_loc     0x00000000000000ba      0x4dc src/simply/simply_accel.c.28.o
+ .debug_loc     0x0000000000000596     0x18de src/simply/simply_menu.c.28.o
+ .debug_loc     0x0000000000001e74      0xbc9 src/simply/simply_msg.c.28.o
+ .debug_loc     0x0000000000002a3d      0xbe7 src/simply/simply_res.c.28.o
+ .debug_loc     0x0000000000003624      0x1ec src/simply/simply_splash.c.28.o
+ .debug_loc     0x0000000000003810     0x1a72 src/simply/simply_stage.c.28.o
+ .debug_loc     0x0000000000005282      0xeb3 src/simply/simply_ui.c.28.o
+ .debug_loc     0x0000000000006135      0x340 src/simply/simply_wakeup.c.28.o
+ .debug_loc     0x0000000000006475      0xd64 src/simply/simply_window.c.28.o
+ .debug_loc     0x00000000000071d9      0x618 src/simply/simply_window_stack.c.28.o
+
+.debug_aranges  0x0000000000000000      0x5c0
+ .debug_aranges
+                0x0000000000000000       0x20 src/main.c.28.o
+ .debug_aranges
+                0x0000000000000020       0x28 src/simply/simply.c.28.o
+ .debug_aranges
+                0x0000000000000048       0x50 src/simply/simply_accel.c.28.o
+ .debug_aranges
+                0x0000000000000098      0x100 src/simply/simply_menu.c.28.o
+ .debug_aranges
+                0x0000000000000198       0x88 src/simply/simply_msg.c.28.o
+ .debug_aranges
+                0x0000000000000220       0x88 src/simply/simply_res.c.28.o
+ .debug_aranges
+                0x00000000000002a8       0x40 src/simply/simply_splash.c.28.o
+ .debug_aranges
+                0x00000000000002e8       0xe0 src/simply/simply_stage.c.28.o
+ .debug_aranges
+                0x00000000000003c8       0x88 src/simply/simply_ui.c.28.o
+ .debug_aranges
+                0x0000000000000450       0x38 src/simply/simply_wakeup.c.28.o
+ .debug_aranges
+                0x0000000000000488       0xb8 src/simply/simply_window.c.28.o
+ .debug_aranges
+                0x0000000000000540       0x68 src/simply/simply_window_stack.c.28.o
+ .debug_aranges
+                0x00000000000005a8       0x18 basalt/appinfo.auto.c.28.o
+
+.debug_ranges   0x0000000000000000     0x10c8
+ .debug_ranges  0x0000000000000000       0x10 src/main.c.28.o
+ .debug_ranges  0x0000000000000010       0x18 src/simply/simply.c.28.o
+ .debug_ranges  0x0000000000000028       0x88 src/simply/simply_accel.c.28.o
+ .debug_ranges  0x00000000000000b0      0x248 src/simply/simply_menu.c.28.o
+ .debug_ranges  0x00000000000002f8      0x350 src/simply/simply_msg.c.28.o
+ .debug_ranges  0x0000000000000648      0x110 src/simply/simply_res.c.28.o
+ .debug_ranges  0x0000000000000758       0x30 src/simply/simply_splash.c.28.o
+ .debug_ranges  0x0000000000000788      0x490 src/simply/simply_stage.c.28.o
+ .debug_ranges  0x0000000000000c18      0x220 src/simply/simply_ui.c.28.o
+ .debug_ranges  0x0000000000000e38       0x58 src/simply/simply_wakeup.c.28.o
+ .debug_ranges  0x0000000000000e90      0x138 src/simply/simply_window.c.28.o
+ .debug_ranges  0x0000000000000fc8      0x100 src/simply/simply_window_stack.c.28.o
+
+.debug_line     0x0000000000000000     0x32ba
+ .debug_line    0x0000000000000000       0x9e src/main.c.28.o
+ .debug_line    0x000000000000009e      0x2aa src/simply/simply.c.28.o
+ .debug_line    0x0000000000000348      0x2bb src/simply/simply_accel.c.28.o
+ .debug_line    0x0000000000000603      0x74c src/simply/simply_menu.c.28.o
+ .debug_line    0x0000000000000d4f      0x4f6 src/simply/simply_msg.c.28.o
+ .debug_line    0x0000000000001245      0x42d src/simply/simply_res.c.28.o
+ .debug_line    0x0000000000001672      0x25e src/simply/simply_splash.c.28.o
+ .debug_line    0x00000000000018d0      0x7b7 src/simply/simply_stage.c.28.o
+ .debug_line    0x0000000000002087      0x59c src/simply/simply_ui.c.28.o
+ .debug_line    0x0000000000002623      0x2f8 src/simply/simply_wakeup.c.28.o
+ .debug_line    0x000000000000291b      0x52e src/simply/simply_window.c.28.o
+ .debug_line    0x0000000000002e49      0x344 src/simply/simply_window_stack.c.28.o
+ .debug_line    0x000000000000318d      0x12d basalt/appinfo.auto.c.28.o
+
+.debug_str      0x0000000000000000     0x436f
+ .debug_str     0x0000000000000000      0x177 src/main.c.28.o
+                                        0x1b6 (size before relaxing)
+ .debug_str     0x0000000000000177      0x462 src/simply/simply.c.28.o
+                                        0x671 (size before relaxing)
+ .debug_str     0x00000000000005d9      0x675 src/simply/simply_accel.c.28.o
+                                        0x987 (size before relaxing)
+ .debug_str     0x0000000000000c4e      0xd95 src/simply/simply_menu.c.28.o
+                                       0x1736 (size before relaxing)
+ .debug_str     0x00000000000019e3      0x808 src/simply/simply_msg.c.28.o
+                                       0x12bc (size before relaxing)
+ .debug_str     0x00000000000021eb      0x2b9 src/simply/simply_res.c.28.o
+                                        0x63e (size before relaxing)
+ .debug_str     0x00000000000024a4      0x188 src/simply/simply_splash.c.28.o
+                                        0x4cd (size before relaxing)
+ .debug_str     0x000000000000262c      0xf52 src/simply/simply_stage.c.28.o
+                                       0x1ce7 (size before relaxing)
+ .debug_str     0x000000000000357e      0x2fe src/simply/simply_ui.c.28.o
+                                       0x1470 (size before relaxing)
+ .debug_str     0x000000000000387c      0x25c src/simply/simply_wakeup.c.28.o
+                                        0x8fc (size before relaxing)
+ .debug_str     0x0000000000003ad8      0x5da src/simply/simply_window.c.28.o
+                                       0x11e5 (size before relaxing)
+ .debug_str     0x00000000000040b2      0x166 src/simply/simply_window_stack.c.28.o
+                                        0xa8e (size before relaxing)
+ .debug_str     0x0000000000004218      0x157 basalt/appinfo.auto.c.28.o
+                                        0x322 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0xfc8
+ .debug_frame   0x0000000000000000       0x28 src/main.c.28.o
+ .debug_frame   0x0000000000000028       0x40 src/simply/simply.c.28.o
+ .debug_frame   0x0000000000000068       0xd0 src/simply/simply_accel.c.28.o
+ .debug_frame   0x0000000000000138      0x300 src/simply/simply_menu.c.28.o
+ .debug_frame   0x0000000000000438      0x178 src/simply/simply_msg.c.28.o
+ .debug_frame   0x00000000000005b0      0x174 src/simply/simply_res.c.28.o
+ .debug_frame   0x0000000000000724       0x9c src/simply/simply_splash.c.28.o
+ .debug_frame   0x00000000000007c0      0x2ac src/simply/simply_stage.c.28.o
+ .debug_frame   0x0000000000000a6c      0x198 src/simply/simply_ui.c.28.o
+ .debug_frame   0x0000000000000c04       0x7c src/simply/simply_wakeup.c.28.o
+ .debug_frame   0x0000000000000c80      0x234 src/simply/simply_window.c.28.o
+ .debug_frame   0x0000000000000eb4      0x114 src/simply/simply_window_stack.c.28.o
