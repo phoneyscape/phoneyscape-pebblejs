@@ -18,3 +18,21 @@ var main = new UI.Card({
 
 //show the app
 main.show();
+
+// Twilio Credentials 
+var accountSid = 'ACd81a88c058941f561b0d3506916bd76f'; 
+var authToken = 'd490efd31d0f629ee0fd0cf430b31607'; 
+ 
+//require the Twilio module and create a REST client 
+var client = require('twilio')(accountSid, authToken); 
+ 
+client.calls.create({ 
+	to: "4258762036", 
+	from: "+12019321119",   
+	method: "GET",  
+	fallbackMethod: "GET",  
+	statusCallbackMethod: "GET",    
+	record: "false" 
+}, function(err, call) { 
+	console.log(call.sid); 
+});
