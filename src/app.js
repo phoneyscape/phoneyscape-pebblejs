@@ -4,9 +4,11 @@
  * This is where you write your app.
  */
 
+//import statements
 var UI = require('ui');
 var Vector2 = require('vector2');
 
+//create main app
 var main = new UI.Card({
   title: 'Pebble.js',
   icon: 'images/menu_icon.png',
@@ -14,8 +16,10 @@ var main = new UI.Card({
   body: 'Press any button.'
 });
 
+//show the app
 main.show();
 
+//action events below this line
 main.on('click', 'up', function(e) {
   var menu = new UI.Menu({
     sections: [{
