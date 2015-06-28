@@ -1,28 +1,55 @@
-/**
- * Welcome to Pebble.js!
- *
- * This is where you write your app.
- */
-
-//import statements
 var UI = require('ui');
+var Vector2 = require('vector2');
+var ajax = require('ajax');
+var Vibe = require('ui/vibe');
 
-//create main app
-var main = new UI.Card({
-  title: 'Pebble.js',
-  icon: 'images/menu_icon.png',
-  subtitle: 'Hello World!',
-  body: 'Press any button.'
+var main_window = new UI.Window({
+  fullscreen: true,
 });
 
-//show the app
-main.show();
+var main_time = new UI.TimeText({
+  position: new Vector2(0, 65),
+  size: new Vector2(144, 30),
+  font: 'gothic-24-bold',
+  textAlign: 'center',
+  text: '%I:%M'
+})
 
-//on click
-main.on('click', 'up', function(e) {
+var to_number = '+14258762036';
+var escalation_level = 0;
+
+
+// Selection Actions
+
+
+
+
+
+// Main Actions
+main_window.on('click', 'up', function(e) {
+  Vibe.vibrate('short');
+  console.log(escalation_level);
+  escalation_level += 1;
+  setTimeout(function(){
+    escalation_level = 0;
+  }, 10000);
+});
+
+main_window.on('click', 'select', function(e) {
 
 });
 
-// Twilio Credentials
-var accountSid = 'ACd81a88c058941f561b0d3506916bd76f';
-var authToken = 'd490efd31d0f629ee0fd0cf430b31607';
+main_window.on('click', 'down', function(e){
+  ajax({
+    url: 'https://pebbleescape-stuartpb.c9.io/call',
+    method: 'POST',
+    data: {to: to_number},
+  }, function(d){
+    Vibe.vibrate('short');
+  }, function(error){
+    Vibe.vibrate('double');
+  });
+})
+
+main_window.add(main_time);
+main_window.show();
