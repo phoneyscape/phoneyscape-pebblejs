@@ -18,9 +18,6 @@ var main_time = new UI.TimeText({
 
 var call_number = '+14258762036';
 var escalation_level = 0;
-Settings.option({
-  keyme: 'blah'
-});
 Settings.config({
   url: 'http://config.phoneyscape.com/',
   },
@@ -33,6 +30,7 @@ Settings.config({
 );
 
 var options = Settings.option();
+
 console.log(JSON.stringify(options));
 
 for (var i = 0; i < localStorage.length; i++) {
@@ -42,18 +40,7 @@ for (var i = 0; i < localStorage.length; i++) {
 
 // Selection Actions
 main_window.on('longpress', 'down', function(e) {
-  var to_num_opt = UI.Menu({
-    sections: [{
-      items: [{
-        title: 'Change Number?',
-        subtitle: 'Back for "no"'
-      }]
-    }]
-  });
-  to_num_opt.on('click', 'select', function(e){
-    call_number = '';
-  });
-  to_num_opt.show();
+
 });
 
 // Main Actions
@@ -95,7 +82,7 @@ main_window.on('click', 'down', function(e){
     type: 'json',
     method: 'POST',
     data: {
-      to: to_number,
+      to: call_number,
     },
   }, function(d){
     Vibe.vibrate('short');
