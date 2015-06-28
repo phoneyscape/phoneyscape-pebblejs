@@ -1,10 +1,10 @@
 {
   "appKeys": {},
   "capabilities": [
-    ""
+    "configurable"
   ],
   "companyName": "f.s.kidd@gmail.com",
-  "longName": "Escape",
+  "longName": "Phoneyscape",
   "projectType": "pebblejs",
   "resources": {
     "media": [
@@ -32,7 +32,7 @@
     ]
   },
   "sdkVersion": "3",
-  "shortName": "Escape",
+  "shortName": "Phonyscape",
   "uuid": "27dec820-1f68-49f2-9c76-3886aaf2d5ee",
   "versionCode": 1,
   "versionLabel": "1.0",

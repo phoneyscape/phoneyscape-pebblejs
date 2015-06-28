@@ -16,27 +16,29 @@ var main_time = new UI.TimeText({
   text: '%I:%M'
 });
 
-var to_number = '+14258762036';
+var call_number = '+14258762036';
 var escalation_level = 0;
-var save_me = Settings.data('save_me');
-if (save_me){
-  if (save_me.esc) {
-    console.log(save_me.esc);
-  }
-}
+Settings.option({
+  keyme: 'blah'
+});
 Settings.config({
-  url: 'https://config.phoneyscape.com',
+  url: 'http://config.phoneyscape.com/',
   },
   function(e) {
     console.log('opening configurable');
-
-    // Reset color to red before opening the webview
-    Settings.option('color', 'red');
   },
   function(e) {
     console.log('closed configurable');
   }
 );
+
+var options = Settings.option();
+console.log(JSON.stringify(options));
+
+for (var i = 0; i < localStorage.length; i++) {
+  var key = localStorage.key(i);
+  console.log(JSON.stringify(key), JSON.stringify(localStorage.getItem(key)));
+}
 
 // Selection Actions
 main_window.on('longpress', 'down', function(e) {
@@ -49,7 +51,7 @@ main_window.on('longpress', 'down', function(e) {
     }]
   });
   to_num_opt.on('click', 'select', function(e){
-    to_number = '';
+    call_number = '';
   });
   to_num_opt.show();
 });
@@ -59,7 +61,6 @@ main_window.on('click', 'up', function(e) {
   Vibe.vibrate('short');
   console.log(escalation_level);
   escalation_level += 1;
-  Settings.data('save_me', {id: 1, esc: escalation_level});
   setTimeout(function(){
     escalation_level = 0;
   }, 10000);
@@ -68,31 +69,44 @@ main_window.on('click', 'up', function(e) {
 // Text safety net
 main_window.on('click', 'select', function(e) {
   ajax({
-    url: 'https://pebbleescape-stuartpb.c9.io/call',
+    url: 'https://calling.phoneyscape.com/call',
+    type: 'json',
     method: 'POST',
     data: {
-      //to: to_number,
+      to: call_number,
     },
   }, function(d){
     Vibe.vibrate('short');
+    console.log('Successful call.');
   }, function(error){
     Vibe.vibrate('double');
+    if (error){
+      console.log('Failed call:' + error.message);
+    } else {
+      console.log('Failed call. Error not returned.');
+    }
   });
 });
 
 // Call self
 main_window.on('click', 'down', function(e){
   ajax({
-    url: 'https://pebbleescape-stuartpb.c9.io/call',
+    url: 'https://calling.phoneyscape.com/call',
+    type: 'json',
     method: 'POST',
     data: {
       to: to_number,
     },
   }, function(d){
     Vibe.vibrate('short');
+    console.log('Successful call.');
   }, function(error){
     Vibe.vibrate('double');
-  });
+    if (error){
+      console.log('Failed call:' + error.message);
+    } else {
+      console.log('Failed call. Error not returned.');
+    }  });
 });
 
 main_window.add(main_time);
